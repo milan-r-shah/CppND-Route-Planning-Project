@@ -1,6 +1,6 @@
 # Route Planning Project
 
-### This repo contains the code for the Path/Route Planning on OpenStreetMap using A* Search Algorithm. It uses IO2D library for the graphics rendring.
+#### This repo contains the code for the Path/Route Planning on OpenStreetMap using A* Search Algorithm. It uses IO2D library for the graphics rendring.
 
 <img src="wpi_map.png" width="600" height="530" />
 
