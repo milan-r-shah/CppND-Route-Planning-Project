@@ -21,7 +21,11 @@ RoutePlanner::RoutePlanner(RouteModel &model, float start_x, float start_y, floa
 // - Node objects have a distance method to determine the distance to another node.
 
 float RoutePlanner::CalculateHValue(RouteModel::Node const *node) {
-
+    float h = 0;
+    float x = (*node).x;
+    float y = (*node).y;
+    h = (*node).distance(*end_node);
+    return h;
 }
 
 
