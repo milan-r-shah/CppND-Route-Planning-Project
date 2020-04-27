@@ -1,8 +1,10 @@
 # Route Planning Project
 
-This repo contains the code for the Route Planning project.
+### This repo contains the code for the Path/Route Planning on OpenStreetMap using A* Search Algorithm. It uses IO2D library for the graphics rendring.
 
-<img src="wpi_map.png" width="600" height="450" />
+<img src="wpi_map.png" width="600" height="530" />
+
+*The path created between my home & my school (Worcester Polytechnic Institute, Worcester, MA)*
 
 ## Cloning
 
